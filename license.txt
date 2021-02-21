@@ -1,0 +1,3 @@
+Author: ArkOfReis_
+Version: 1.0
+Description: Advanced Python Notepad
